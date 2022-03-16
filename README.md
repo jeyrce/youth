@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Youth's trace
 
-You can use the [editor on GitHub](https://github.com/jeyrce/youth/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Graduate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![huat](archive/.static/142.png)
 
-### Markdown
+### Archive
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [2022](archive/2022.md)
 
-```markdown
-Syntax highlighted code block
+### Youth
 
-# Header 1
-## Header 2
-### Header 3
+```text
+青春不是年华，而是心境；青春不是桃面、丹唇、柔膝，而是深沉的意志，恢宏的想象，炙热的恋情；青春是生命的深泉在涌流。
 
-- Bulleted
-- List
+青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。
 
-1. Numbered
-2. List
+如此锐气，二十后生而有之，六旬男子则更多见。
 
-**Bold** and _Italic_ and `Code` text
+年岁有加，并非垂老，理想丢弃，方堕暮年。
 
-[Link](url) and ![Image](src)
+岁月悠悠，衰微只及肌肤；热忱抛却，颓废必致灵魂。
+
+忧烦，惶恐，丧失自信，定使心灵扭曲，意气如灰。
+
+无论年届花甲，拟或二八芳龄，心中皆有生命之欢乐，奇迹之诱惑，孩童般天真久盛不衰。
+
+人人心中皆有一台天线，只要你从天上人间接受美好、希望、欢乐、勇气和力量的信号，你就青春永驻，风华常存。
+
+一旦天线下降，锐气便被冰雪覆盖，玩世不恭、自暴自弃油然而生，即使年方二十，实已垂垂老矣；然则只要树起天线，捕捉乐观信号，你就有望在八十高龄告别尘寰时仍觉年轻。
+
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeyrce/youth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

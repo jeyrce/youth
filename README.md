@@ -2,11 +2,11 @@
 
 ### Graduate
 
-![huat](archive/.static/142.png)
+![huat](./archive/.static/142.png)
 
 ### Archive
 
-- [2022](archive/2022.md)
+- [2022](./archive/2022.md)
 
 ### Youth
 

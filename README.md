@@ -2,7 +2,7 @@
 
 ### Graduate
 
-![huat](./archive/.static/142.png)
+![huat](archive/static/142.png)
 
 ### Archive
 
